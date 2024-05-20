@@ -8,6 +8,8 @@ return null;
 
 public void main();
 
+public void main1();
+
 changes
 
 changes to push
