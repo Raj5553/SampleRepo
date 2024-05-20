@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 hi hello good evening.How are you
+=======
+hi hello good evening
+
+
+public void getMessage(){
+
+}
+>>>>>>> Stashed changes
