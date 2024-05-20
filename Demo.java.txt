@@ -4,3 +4,5 @@ hi hello good evening.How are you
 public void getMessage(){
 
 }
+
+public void main();
